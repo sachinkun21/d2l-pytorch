@@ -8,7 +8,7 @@ This project is adapted from the original [Dive Into Deep Learning](https://d2l.
 
 Note: Some ipynb notebooks may not be rendered perfectly in Github. We suggest `cloning` the repo or using [nbviewer](https://nbviewer.jupyter.org/) to view the notebooks.
 
-
+.
 ## Chapters
 
   * **Ch02 Installation**
